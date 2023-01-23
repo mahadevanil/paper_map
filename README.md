@@ -1,4 +1,4 @@
-# edu_app
+# paper_map
 
 A new Flutter project.
 
